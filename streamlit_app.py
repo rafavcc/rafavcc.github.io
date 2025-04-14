@@ -33,12 +33,10 @@ com forte atuação em automação, Python, troubleshooting e arquitetura de red
 st.header("💼 Projetos")
 st.markdown("""
 ### 📊 Analisador de Logs 5G
-Ferramenta feita em Python para analisar logs de rede usando Wireshark, ELT e QXDM.  
-[🔗 Código no GitHub](https://github.com/rafavcc/projeto-exemplo)
-
-# 📈 Dashboard de Indicadores
-ETL + visualização de KPIs para redes móveis com Streamlit e Plotly.  
-[🔗 Código no GitHub](https://github.com/rafavcc/dashboard-kpi)
+Este repositório contém soluções em Python para os exercícios do livro Cracking the Coding Interview, de Gayle Laakmann McDowell.
+O objetivo é converter as soluções originais em Java para Python, 
+facilitando o estudo para aqueles que preferem essa linguagem.
+[🔗 Código no GitHub](https://github.com/rafavcc/cracking_code_interview)
 """)
 
 
