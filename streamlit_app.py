@@ -32,7 +32,7 @@ com forte atuação em automação, Python, troubleshooting e arquitetura de red
 
 st.header("💼 Projetos")
 st.markdown("""
-### 📊 Analisador de Logs 5G
+### 📊 Cracking the Coding Interview - em Python
 Este repositório contém soluções em Python para os exercícios do livro Cracking the Coding Interview, de Gayle Laakmann McDowell.
 O objetivo é converter as soluções originais em Java para Python, 
 facilitando o estudo para aqueles que preferem essa linguagem.
