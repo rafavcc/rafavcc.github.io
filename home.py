@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Portfólio - Rafael Viegas", layout = "wide")
+
 st.title("Rafael Viegas de Carvalho")
 st.subheader("Senior Technical Specialist | Telecom, Software Engineering & Data Science")
 
