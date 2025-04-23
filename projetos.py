@@ -19,3 +19,10 @@ Os dados utilizados nesta análise são provenientes dos bancos de dados do IBGE
 disponíveis publicamente na internet.
 [🔗 Código no GitHub](https://github.com/rafavcc/speedtest)
 """)
+
+st.markdown("""
+### 📊 Portfolio Pessoal - em Python
+Este projeto é uma página de portfólio desenvolvida com Streamlit, exibindo informações sobre projetos pessoais e profissionais.
+O objetivo é criar uma interface interativa e visualmente agradável para apresentar meu trabalho e habilidades.
+[🔗 Código no GitHub](https://github.com/rafavcc/rafavcc.github.io)
+""")
